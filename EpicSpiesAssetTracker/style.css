@@ -1,0 +1,27 @@
+﻿body {
+    font-family: 'Orbitron', sans-serif;
+    background: black;
+    color: wheat;
+    margin: 0px auto;
+    width:400px;
+}
+
+.picture {
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+.resultbutton {
+
+    background-color: black;
+    border: none;
+    color: red;
+    margin-top: 20px;
+    text-align: left;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    font-weight: bold;
+
+}
